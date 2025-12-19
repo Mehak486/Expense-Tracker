@@ -1,20 +1,41 @@
-Expense Tracker – Python Project
+# 💰 Expense Tracker – Python Project
 
-Description:
-This project is a simple Expense Tracker developed using Python to help users
-record, manage, and analyze their daily expenses.
+A simple and efficient **Expense Tracker application** built using **Python** to help users track, manage, and analyze their daily expenses.
 
-Features:
-· Add new expenses
-· View expense records
-· Categorize expenses
-· Calculate total expenses
-· Simple and user-friendly interface
+This project is designed to improve budgeting habits by allowing users to record expenses, categorize spending, and view summaries in an easy-to-use interface.
 
-Technologies Used:
-· Python
-· File Handling
-· Data Management
+---
 
-Usage:
-Run the main Python file and follow the on-screen menu options.
+## ✨ Features
+
+- Add daily expenses with amount and category  
+- View all recorded expenses  
+- Calculate total expenses  
+- Simple and user-friendly interface (console-based / TUI)  
+- Local data storage for expense records  
+- Helps in personal budget management  
+
+---
+
+## 🛠️ Technologies Used
+
+- Python  
+- File Handling  
+- Data Processing & Logic Implementation  
+- Terminal / Console Interface  
+
+---
+
+## 📦 How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Expense-Tracker.git
+   
+2. Navigate to the project folder:
+
+cd Expense-Tracker
+
+3. Run the program:
+
+python main.py
